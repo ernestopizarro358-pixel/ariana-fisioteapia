@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="Foto profesional de Ariana">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8F1FB"/>
+      <stop offset="1" stop-color="#D4E6F8"/>
+    </linearGradient>
+    <linearGradient id="fig" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E88E5"/>
+      <stop offset="1" stop-color="#0F4C81"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <circle cx="300" cy="265" r="115" fill="url(#fig)" opacity="0.9"/>
+  <path d="M120 750 C120 600 200 520 300 520 C400 520 480 600 480 750 Z" fill="url(#fig)" opacity="0.9"/>
+  <g fill="#0F4C81" opacity="0.55" font-family="'Segoe UI',sans-serif" text-anchor="middle">
+    <text x="300" y="700" font-size="26" font-weight="600">Foto profesional de Ariana</text>
+    <text x="300" y="732" font-size="18">añade tu imagen en assets/img/ariana.jpg</text>
+  </g>
+</svg>
